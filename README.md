@@ -10,4 +10,5 @@
 After adding the directory to the PATH variable, you should be able to run the script by simply typing "emb" in the Command Prompt without specifying the full path to the script file.
 
 #Screenshot 
+
 ![image](https://github.com/enoobis-org/embry-app/assets/62465404/347c612f-e08f-4372-92c4-c5047ca092b4)
